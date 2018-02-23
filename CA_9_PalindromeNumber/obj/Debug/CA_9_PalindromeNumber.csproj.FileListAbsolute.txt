@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\bin\Debug\CA_9_PalindromeNumber.exe.config
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\bin\Debug\CA_9_PalindromeNumber.exe
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\bin\Debug\CA_9_PalindromeNumber.pdb
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\obj\Debug\CA_9_PalindromeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\obj\Debug\CA_9_PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\obj\Debug\CA_9_PalindromeNumber.exe
+C:\Users\Chuan\Project\CA_9_PalindromeNumber\CA_9_PalindromeNumber\obj\Debug\CA_9_PalindromeNumber.pdb
